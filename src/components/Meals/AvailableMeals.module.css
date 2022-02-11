@@ -10,6 +10,20 @@
     margin: 0;
     padding: 0;
   }
+  .mealLoading{
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-style: inherit;
+  }
+
+  .mealError{
+    
+    text-align: center;
+    color: red;
+    font-size: medium;
+    font-style: inherit;
+  }
   
   @keyframes meals-appear {
     from {
